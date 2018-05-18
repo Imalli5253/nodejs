@@ -1,6 +1,6 @@
 name 'nvmnode'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'pnr.759@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures nvmnode'
 long_description 'Installs/Configures nvmnode'
